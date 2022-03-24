@@ -2,6 +2,5 @@
 
 Repositorio criado para o Desafio de Projeto.
 
-## links Úteis
-
-[Sitaxe Basica Marckdown] (https://www.markdownguide.org/basic-syntax/)
+## Links Úteis
+[Sitaxe Basica Marckdown](https://www.markdownguide.org/basic-syntax/)
